@@ -1,6 +1,4 @@
-Certainly, here's the updated README file with the Postman documentation URL and without the sample request and response sections:
 
----
 
 # Mentor-Student API
 
